@@ -16,8 +16,8 @@
 
 ## 🏢 Work Experience
 
-- **Senior Research Engineer** - at [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do), Hyderabad, India  _(July 2017 - Now)_ <br>
-  - *_Technologies used_* : Java, Android, Kotlin, C/C++
+**Senior Research Engineer** - at [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do), Hyderabad, India  _(July 2017 - Now)_ <br>
+  - *Technologies used* : Java, Android, Kotlin, C/C++
   - Developed and supported Android applications based on Media, EV, Telematics and -   Connectivity for In-Vehicle Infotainment (IVI Systems)
   - Developed specs for Controller Area Network (CAN bus) applications such as [NMODE](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/nmode.html) - (equipped  in racing cars for high performance), [Electric Vehicle (EV)](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/evelectricvehicle3.html) along with - its variants [Plug-In](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/pluginhybridelectricvehicle.html),   and [Hybrid EV](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/hybrid.html).
   - Some specifications such as schedule charging, smart climate settings, next - departure,  nearby charging stations, EV charge transfer, Laps, Timer, plotting - custom graphs for GForce,  different gauges, etc.
@@ -27,8 +27,8 @@
   - Gained strong understanding of native android application, IVI architecture, - communication  between Application Framework managers,  Services layers and - Hardware abstraction layers.
 <br>
 
-- **Intern** - Java Back End Developer at  [NicePeopleAtWork (NPAW)](https://npaw.com), Barcelona, Spain _(Dec’16 - June’17)_ <br>
-  - *_Technologies used_* : Java, Spring MVC, Hibernate, Boot, Microservices, Apache Kafka, MySQL
+**Intern** - Java Back End Developer at  [NicePeopleAtWork (NPAW)](https://npaw.com), Barcelona, Spain _(Dec’16 - June’17)_ <br>
+  - *Technologies used* : Java, Spring MVC, Hibernate, Boot, Microservices, Apache Kafka, MySQL
   - Developed and understood working of various APIs for an end-to-end complete suite of integrated   - video analytics and business intelligence that provided insights based both on sessions and   - video playback monitoring all in one platform.
   - Implemented Device Detector Library to categories the customers viewing device (desktop, tablet,  - mobile, tv, cars, console, etc.), browser, os, brand and model by parsing user-agents through  - cached regular expressions.
   - Supported on developing scoring system for microservices related to Content Delivery Network  - (CDN) balancer which identifies the best performing CDN to switch in real-time for better  - quality of service.
@@ -36,7 +36,7 @@
 
 ## 📌  My Projects
 
-- *_Open-Source Projects_*
+*Open-Source Projects*
 
   - **[Version Code Namer](https://suhaas-livcd.github.io/projects/version-code-namer-lib)** - _Android, Java, JitPack_
   Deployed a jitpack library to deal with automatic naming of the versions in a systematic and organised way with the version names. Users have the choice to opt for a specific type of versioning scheme. Based on the version code of the software, the predefined name would be returned from the map.
@@ -67,22 +67,22 @@
   endance.
   <br>
 
-- *University Projects*
+*University Projects*
 
-  - **[*_Karunya For Need (KFN)  (May 2016)_*](https://suhaas-livcd.github.io/projects/karunya-for-need)** - An internal online hosting platform for students to exchange and bid for goods and was carried out in [collaboration](https://drive.google.com/file/d/1lh0eh2ffzP7gKoKE8abBaTn0oI4-95ER/view?usp=sharing) with the partner company [Octalian Media](https://www.octalian.in/). This online web application was a great hit and was further scope extended to deploy for mobile platforms too. The kindle of project KFN initiated during the year 2016 using *PHP - Laravel*, is still alive and enhanced with advanced web technologies
+  - **[Karunya For Need (KFN)  (May 2016)](https://suhaas-livcd.github.io/projects/karunya-for-need)** - An internal online hosting platform for students to exchange and bid for goods and was carried out in [collaboration](https://drive.google.com/file/d/1lh0eh2ffzP7gKoKE8abBaTn0oI4-95ER/view?usp=sharing) with the partner company [Octalian Media](https://www.octalian.in/). This online web application was a great hit and was further scope extended to deploy for mobile platforms too. The kindle of project KFN initiated during the year 2016 using *PHP - Laravel*, is still alive and enhanced with advanced web technologies
 <br>
 
-  - **_Automation Software for Material Handling_** (July 2015 - Feb 2016) - A software service to help the STORES Department at university to carry out work hassle-free in comparison to the conventional paper-based work. The project incorporated advanced features such as digital signatures, generating variegated reports based on filters, and providing advanced recommendations to reduce costly operations. (C#.NET, SQL Server database)
+  - **Automation Software for Material Handling** (July 2015 - Feb 2016) - A software service to help the STORES Department at university to carry out work hassle-free in comparison to the conventional paper-based work. The project incorporated advanced features such as digital signatures, generating variegated reports based on filters, and providing advanced recommendations to reduce costly operations. (C#.NET, SQL Server database)
 <br>
 
-  - **_Real-time analytics for analysing Emails_** ( Dec 2016) - A mini project offered by Novell Centre of Excellence at Karunya University is a hands-on exposure with cloud servers involving the deployment of plug-ins relating to sentimental analysis and labeling of emails in the multi-tenanted cloud environment. (SUSE Linux Enterprise Server 11, Open Stack).
+  - **Real-time analytics for analysing Emails** ( Dec 2016) - A mini project offered by Novell Centre of Excellence at Karunya University is a hands-on exposure with cloud servers involving the deployment of plug-ins relating to sentimental analysis and labeling of emails in the multi-tenanted cloud environment. (SUSE Linux Enterprise Server 11, Open Stack).
 <br>
 
-  - **_Multi-level game prototype_** (Dec 2014) - Designed a Multi-level game prototype with the concept of virtual gaming as a means of digitalising India where education can be provided through projecting holograms - displayed during the project expo at MINDKRAFT village - (Unity 3D Game Engine, C#)
+  - **Multi-level game prototype** (Dec 2014) - Designed a Multi-level game prototype with the concept of virtual gaming as a means of digitalising India where education can be provided through projecting holograms - displayed during the project expo at MINDKRAFT village - (Unity 3D Game Engine, C#)
 
 ## 🏆 Awards
 
-- _Office & Internship level_
+_Office & Internship level_
   - [Stellar Award 2019](https://drive.google.com/file/d/1c8yKfFjUWrrM3feAsFMlvqyyc3Fq9oLX/view?usp=sharing), [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do), Hyderabad, India
   For dedication and commitment towards the work,  proving - to be a valuable asset to the company.
   
@@ -95,7 +95,7 @@
     Achieved company’s challenge  for the best use of their API in project - “Refugee Rescue” selected in the top 5 projects in HackUPC Winter 2017,  collaboration with Major League Hacking (MLH). Project presentation video on [Youtube](https://www.youtube.com/watch?v=Ygu4Dje8eRs), held at Polytechnic University of Catalonia (UPC).
     <br>
 
-- _University Level_
+_University Level_
   - [CERTIFICATE OF MERIT’s](https://drive.google.com/file/d/1VaGHBN28AgjgxnPaWaP0udkDOjUlt49x/view?usp=sharing) (Rank cards) for being in the top 3 students for 2 semesters (Semester IV, and VII)
   - [_II <sup>nd</sup> Prize_](https://drive.google.com/file/d/1bQbBwESI8DCtAIuN2ZwwUsMmeiG1cyBT/view?usp=sharing) in Paper Presentation on the topic "Parallel Processing Model for Big Medical Image Data" of HENOSIS'15 - National Level Technical   - Symposium organized by Dr. NGP Institute of Technology at Coimbatore, India.
   - [_III <sup>rd</sup> Prize_](https://drive.google.com/file/d/1-ur9sI14tip0Odrg8W8b7NHp21uSzzQC/view?usp=sharing) in Paper Presentation on the topic "Parallel Processing Model for Big Medical Image Data" of TEXPERIA'15-16 organised by SNS College of Technology at Coimbatore, India.
@@ -103,7 +103,7 @@
   - [_III <sup>rd</sup> Prize_](https://drive.google.com/file/d/1bTt7glPi9EKJ3esJDwMM83jwLwc4_5tm/view?usp=sharing) in Technical event "Jack of All" of HENOSIS'15 - National Level Technical Symposium held on 19th Sept'15 organized by Dr. NGP Institute of Technology at Coimbatore.
   - [_III<sup>rd</sup> Prize_](https://drive.google.com/file/d/1blWgUTGiEu6qZZ7U-FxSMfY0Z1Bp8T9h/view?usp=sharing) in Technical event "Trigger", a technical quiz of TEXPERIA'15-16 organised by SNS College of Technology.
   - Earned [Academic Incentive Award](https://drive.google.com/file/d/1sytO-BfwUnMZajmkfEVBVtHFVaZ0aYiA/view?usp=sharing) as an appreciation for "Outstanding participation in technical events” during the odd-semester of the academic year 2015-16 at Karunya University.
-  - [Consolation prize](https://drive.google.com/file/d/1bXmpWHazX28j4b0ADkNBlx8SR9aoQabu/view?usp=sharing) for writing Essay on the topic _“The Future of   Nuclear Power : An Approach to Sustainable Development”_ in 26th All India Essay Contest on Nuclear Science & Technology from Department of Atomic Energy  - (GOI), Bhabha Atomic Research Centre (BARC), Mumbai, India on 30thOct'14.
+  - [Consolation prize](https://drive.google.com/file/d/1bXmpWHazX28j4b0ADkNBlx8SR9aoQabu/view?usp=sharing) for writing Essay on the topic _“The Future of   Nuclear Power : An Approach to Sustainable Development”_ in 26th All India Essay Contest on Nuclear Science & Technology from Department of Atomic Energy  - (GOI), [Bhabha Atomic Research Centre (BARC)](http://www.barc.gov.in), Mumbai, India on 30thOct'14.
   - [Certificate of appreciation](https://drive.google.com/file/d/1kjTbChkECBEmQD2hXJIXcCHmaCRi3GIU/view?usp=sharing) from the department of CSE for valuable service as Event Coordinator at the National Level Techno-Management Fest, Mindkraft'16 held at Karunya University.
 
 ## 🎖️ Certifications
@@ -135,4 +135,4 @@ My quick learning capacity, analytical ability, interpersonal skills, believes i
 ## ✍️ Declaration
 I hereby declare that the information furnished above is true to the best of my knowledge. Please feel free to contact me if you have any questions or desire further information.
 
-**Note**: To know about the detailed open-source project information, my native blogs, tutorials articles in the field of computer science, I humbly request you to please visit my website https://suhaas-livcd.github.io
+**Note**: To know about the detailed open-source project information, my native blogs, tutorials articles in the field of computer science, I humbly request you to please visit my website [https://suhaas-livcd.github.io](https://suhaas-livcd.github.io)
