@@ -38,73 +38,52 @@
 
 *Open-Source Projects*
 
-  - **[Version Code Namer](https://suhaas-livcd.github.io/projects/version-code-namer-lib)** - _Android, Java, JitPack_
-
-    Deployed a jitpack library to deal with automatic naming of the versions in a systematic and organised way with the version names. Users have the choice to opt for a specific type of versioning scheme. Based on the version code of the software, the predefined name would be returned from the map.
+  - **[Version Code Namer](https://suhaas-livcd.github.io/projects/version-code-namer-lib)** - _Android, Java, JitPack_ <br> Deployed a jitpack library to deal with automatic naming of the versions in a systematic and organised way with the version names. Users have the choice to opt for a specific type of versioning scheme. Based on the version code of the software, the predefined name would be returned from the map.
   <br>
   
-  - **[Server-Client Chat](https://suhaas-livcd.github.io/projects/server-client-chat)** - _JavaFx, Socket Programming, Networking_
-
-    A lan based chat application, to support anonymous chat by masking the ip address and assigning fake chat names. It helps in discussing problems in the team overtly without any hesitation.
+  - **[Server-Client Chat](https://suhaas-livcd.github.io/projects/server-client-chat)** - _JavaFx, Socket Programming, Networking_ <br> A lan based chat application, to support anonymous chat by masking the ip address and assigning fake chat names. It helps in discussing problems in the team overtly without any hesitation.
   <br>
 
   - **[Project Karaoke](https://suhaas-livcd.github.io/projects/project-karaoke)** - _Android, MediaPlayer and MediaRecorder, Java, C/C++_
-  
-    An automotive media application to play a backing track, with lyrics display and record our voices. This is fun to use if you are going on long drives with your friends. When any songs enter Karaoke Mode, it will synthesize on-going songs to split vocals and backing tracks using native C++ for audio processing. Along with that it prepares a media recorder and fetches lyrics from external APIs.
+  <br> An automotive media application to play a backing track, with lyrics display and record our voices. This is fun to use if you are going on long drives with your friends. When any songs enter Karaoke Mode, it will synthesize on-going songs to split vocals and backing tracks using native C++ for audio processing. Along with that it prepares a media recorder and fetches lyrics from external APIs.
   <br>
 
   - **[Hosto](https://suhaas-livcd.github.io/projects/hosto)** - _Android, Kotlin, Java, FireBase, RX Java_
-  
-    A startup that we are working on, with coding enthusiasts, to host products, exchange goods in apartments, colleges and internal communities. It has some challenging modules such as bidding, image caching and used reactive programming for observable product lists.
+  <br> A startup that we are working on, with coding enthusiasts, to host products, exchange goods in apartments, colleges and internal communities. It has some challenging modules such as bidding, image caching and used reactive programming for observable product lists.
   <br>
 
   - **[Dear Shelly](https://suhaas-livcd.github.io/projects/dear-shelly)** - _JavaFx, JGit, PyQT, Shell_
-  
-    Personal assistant integrated with GIT to record personal tasks and write notes. It helps in retrospection and increases productivity of an individual. This project was evolutionary, written in different languages. Initially using a minimal shell script, then python and later using Java.
+  <br> Personal assistant integrated with GIT to record personal tasks and write notes. It helps in retrospection and increases productivity of an individual. This project was evolutionary, written in different languages. Initially using a minimal shell script, then python and later using Java.
   <br>
 
   - **[Bulbula](https://suhaas-livcd.github.io/projects/bulbula)** - _Android, Java, Android Game Development Kit_
-  
-    Android game to pop bubbles with hilarious sound effects that would attract kids. It helped in understanding the architecture of games in mobile applications, handling animations, window dimensions, sounds and storing user preferences.
+  <br> Android game to pop bubbles with hilarious sound effects that would attract kids. It helped in understanding the architecture of games in mobile applications, handling animations, window dimensions, sounds and storing user preferences.
   <br>
 
-  - **[Attendance Marking System](https://suhaas-livcd.github.io/projects/attendance-marking-system)** - _Android, Java_
-  
-    Automated attendance marking system was subsumed under the theme [Digital India](https://www.digitalindia.gov.in/) - to convert the traditional paper-based attendance logs to a digitalised central system. Students and professors have separate modules to schedule and view deadlines for assignments, create reminders and log attendance.
+  - **[Attendance Marking System](https://suhaas-livcd.github.io/projects/attendance-marking-system)** - _Android, Java_ <br> Automated attendance marking system was subsumed under the theme [Digital India](https://www.digitalindia.gov.in/) - to convert the traditional paper-based attendance logs to a digitalised central system. Students and professors have separate modules to schedule and view deadlines for assignments, create reminders and log attendance.
   <br>
 
 *University Projects*
 
-  - **[Karunya For Need (KFN)](https://suhaas-livcd.github.io/projects/karunya-for-need)** *(May 2016)* - *PHP, Laravel*
-  
-    An internal online hosting platform for students to exchange and bid for goods and was carried out in [collaboration](https://drive.google.com/file/d/1lh0eh2ffzP7gKoKE8abBaTn0oI4-95ER/view?usp=sharing) with the partner company [Octalian Media](https://www.octalian.in/). This online web application was a great hit and was further scope extended to deploy for mobile platforms too. The kindle of project KFN initiated during the year 2016 is still alive and enhanced with advanced web technologies
+  - **[Karunya For Need (KFN)](https://suhaas-livcd.github.io/projects/karunya-for-need)** *(May 2016)* - *PHP, Laravel* <br> An internal online hosting platform for students to exchange and bid for goods and was carried out in [collaboration](https://drive.google.com/file/d/1lh0eh2ffzP7gKoKE8abBaTn0oI4-95ER/view?usp=sharing) with the partner company [Octalian Media](https://www.octalian.in/). This online web application was a great hit and was further scope extended to deploy for mobile platforms too. The kindle of project KFN initiated during the year 2016 is still alive and enhanced with advanced web technologies
 <br>
 
-  - **Automation Software for Material Handling** *(July 2015 - Feb 2016)* - *C#.NET, SQL Server database*
-  
-    A software service to help the STORES Department at university to carry out work hassle-free in comparison to the conventional paper-based work. The project incorporated advanced features such as digital signatures, generating variegated reports based on filters, and providing advanced recommendations to reduce costly operations.
+  - **Automation Software for Material Handling** *(July 2015 - Feb 2016)* - *C#.NET, SQL Server database* <br> A software service to help the STORES Department at university to carry out work hassle-free in comparison to the conventional paper-based work. The project incorporated advanced features such as digital signatures, generating variegated reports based on filters, and providing advanced recommendations to reduce costly operations.
 <br>
 
-  - **Real-time analytics for analysing Emails** *(Dec 2016)* - *SUSE Linux Enterprise Server 11, Open Stack*
-  
-    A mini project offered by Novell Centre of Excellence at Karunya University is a hands-on exposure with cloud servers involving the deployment of plug-ins relating to sentimental analysis and labeling of emails in the multi-tenanted cloud environment.
+  - **Real-time analytics for analysing Emails** *(Dec 2016)* - *SUSE Linux Enterprise Server 11, Open Stack* <br> A mini project offered by Novell Centre of Excellence at Karunya University is a hands-on exposure with cloud servers involving the deployment of plug-ins relating to sentimental analysis and labeling of emails in the multi-tenanted cloud environment.
 <br>
 
-  - **Multi-level game prototype** *(Dec 2014)* - *Unity 3D Game Engine, C#*
-  
-    Designed a Multi-level game prototype with the concept of virtual gaming as a means of digitalising India where education can be provided through projecting holograms. This was also displayed during the project expo at the National Level Techno-Management Fest, Mindkraft'16 held at Karunya University.
+  - **Multi-level game prototype** *(Dec 2014)* - *Unity 3D Game Engine, C#* <br> Designed a Multi-level game prototype with the concept of virtual gaming as a means of digitalising India where education can be provided through projecting holograms. This was also displayed during the project expo at the National Level Techno-Management Fest, Mindkraft'16 held at Karunya University.
 
 ## 🏆 Awards
 
 _Office & Internship level_
-  - [Stellar Award 2019](https://drive.google.com/file/d/1c8yKfFjUWrrM3feAsFMlvqyyc3Fq9oLX/view?usp=sharing), [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do), Hyderabad, India
-    Dedication and commitment towards the work,  proving - to be a valuable asset to the company.
+  - [Stellar Award 2019](https://drive.google.com/file/d/1c8yKfFjUWrrM3feAsFMlvqyyc3Fq9oLX/view?usp=sharing), [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do), Hyderabad, India <br> Dedication and commitment towards the work,  proving - to be a valuable asset to the company.
   
-  - [Best Prototype Award](https://drive.google.com/file/d/1c0S2f4pnADiZnT_Srx8VW9DwmxM5mvxF/view?usp=sharing) , [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do)
-    For the event _MEDHA 2019 - Technical Prototype Presentation_ developed a Proof of Concept titled “Smart Voice Control for In-vehicle -  Infotainment Systems” which reduces driver distraction by around 30-40%. This was developed using Android accessibility service, so as to detect the on-screen functionalities that the driver might intend to perform using voice commands.
+  - [Best Prototype Award](https://drive.google.com/file/d/1c0S2f4pnADiZnT_Srx8VW9DwmxM5mvxF/view?usp=sharing) , [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do) <br> For the event _MEDHA 2019 - Technical Prototype Presentation_ developed a Proof of Concept titled “Smart Voice Control for In-vehicle -  Infotainment Systems” which reduces driver distraction by around 30-40%. This was developed using Android accessibility service, so as to detect the on-screen functionalities that the driver might intend to perform using voice commands.
 
-  - [Best Trainer Award 2020](https://drive.google.com/file/d/1c270JYSGLNS9h-QaoIvwdEJXqNcmRQdQ/view?usp=sharing), [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do)
-    Trained GET’s and shared knowledge by writing technical articles on automotive systems, programming, and automation scripts
+  - [Best Trainer Award 2020](https://drive.google.com/file/d/1c270JYSGLNS9h-QaoIvwdEJXqNcmRQdQ/view?usp=sharing), [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do) <br> Trained GET’s and shared knowledge by writing technical articles on automotive systems, programming, and automation scripts
   - [Signaturit Company Challenge Award 2017](http://dvp.st/2lPvGHv), _Barcelona, Spain_ <br> Achieved company’s challenge  for the best use of their API in project - “Refugee Rescue” selected in the top 5 projects in HackUPC Winter 2017,  collaboration with Major League Hacking (MLH). Project presentation video on [Youtube](https://www.youtube.com/watch?v=Ygu4Dje8eRs), held at Polytechnic University of Catalonia (UPC).
     <br>
 
