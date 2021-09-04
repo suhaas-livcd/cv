@@ -69,16 +69,20 @@
 
 *University Projects*
 
-  - **[Karunya For Need (KFN)  (May 2016)](https://suhaas-livcd.github.io/projects/karunya-for-need)** - An internal online hosting platform for students to exchange and bid for goods and was carried out in [collaboration](https://drive.google.com/file/d/1lh0eh2ffzP7gKoKE8abBaTn0oI4-95ER/view?usp=sharing) with the partner company [Octalian Media](https://www.octalian.in/). This online web application was a great hit and was further scope extended to deploy for mobile platforms too. The kindle of project KFN initiated during the year 2016 using *PHP - Laravel*, is still alive and enhanced with advanced web technologies
+  - **[Karunya For Need (KFN)](https://suhaas-livcd.github.io/projects/karunya-for-need)** *(May 2016)* - *PHP, Laravel*
+  An internal online hosting platform for students to exchange and bid for goods and was carried out in [collaboration](https://drive.google.com/file/d/1lh0eh2ffzP7gKoKE8abBaTn0oI4-95ER/view?usp=sharing) with the partner company [Octalian Media](https://www.octalian.in/). This online web application was a great hit and was further scope extended to deploy for mobile platforms too. The kindle of project KFN initiated during the year 2016 is still alive and enhanced with advanced web technologies
 <br>
 
-  - **Automation Software for Material Handling** (July 2015 - Feb 2016) - A software service to help the STORES Department at university to carry out work hassle-free in comparison to the conventional paper-based work. The project incorporated advanced features such as digital signatures, generating variegated reports based on filters, and providing advanced recommendations to reduce costly operations. (C#.NET, SQL Server database)
+  - **Automation Software for Material Handling** *(July 2015 - Feb 2016)* - *C#.NET, SQL Server database*
+  A software service to help the STORES Department at university to carry out work hassle-free in comparison to the conventional paper-based work. The project incorporated advanced features such as digital signatures, generating variegated reports based on filters, and providing advanced recommendations to reduce costly operations.
 <br>
 
-  - **Real-time analytics for analysing Emails** ( Dec 2016) - A mini project offered by Novell Centre of Excellence at Karunya University is a hands-on exposure with cloud servers involving the deployment of plug-ins relating to sentimental analysis and labeling of emails in the multi-tenanted cloud environment. (SUSE Linux Enterprise Server 11, Open Stack).
+  - **Real-time analytics for analysing Emails** *(Dec 2016)* - *SUSE Linux Enterprise Server 11, Open Stack*
+  A mini project offered by Novell Centre of Excellence at Karunya University is a hands-on exposure with cloud servers involving the deployment of plug-ins relating to sentimental analysis and labeling of emails in the multi-tenanted cloud environment.
 <br>
 
-  - **Multi-level game prototype** (Dec 2014) - Designed a Multi-level game prototype with the concept of virtual gaming as a means of digitalising India where education can be provided through projecting holograms - displayed during the project expo at MINDKRAFT village - (Unity 3D Game Engine, C#)
+  - **Multi-level game prototype** *(Dec 2014)* - *Unity 3D Game Engine, C#*
+  Designed a Multi-level game prototype with the concept of virtual gaming as a means of digitalising India where education can be provided through projecting holograms. This was also displayed during the project expo at the National Level Techno-Management Fest, Mindkraft'16 held at Karunya University.
 
 ## 🏆 Awards
 
