@@ -80,12 +80,13 @@
 
 _Office & Internship level_
   - [Stellar Award 2019](https://drive.google.com/file/d/1c8yKfFjUWrrM3feAsFMlvqyyc3Fq9oLX/view?usp=sharing), [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do), Hyderabad, India <br> Dedication and commitment towards the work,  proving - to be a valuable asset to the company.
-  
+  <br> 
   - [Best Prototype Award](https://drive.google.com/file/d/1c0S2f4pnADiZnT_Srx8VW9DwmxM5mvxF/view?usp=sharing) , [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do) <br> For the event _MEDHA 2019 - Technical Prototype Presentation_ developed a Proof of Concept titled “Smart Voice Control for In-vehicle -  Infotainment Systems” which reduces driver distraction by around 30-40%. This was developed using Android accessibility service, so as to detect the on-screen functionalities that the driver might intend to perform using voice commands.
-
+  <br> 
   - [Best Trainer Award 2020](https://drive.google.com/file/d/1c270JYSGLNS9h-QaoIvwdEJXqNcmRQdQ/view?usp=sharing), [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do) <br> Trained GET’s and shared knowledge by writing technical articles on automotive systems, programming, and automation scripts
+  <br>
   - [Signaturit Company Challenge Award 2017](http://dvp.st/2lPvGHv), _Barcelona, Spain_ <br> Achieved company’s challenge  for the best use of their API in project - “Refugee Rescue” selected in the top 5 projects in HackUPC Winter 2017,  collaboration with Major League Hacking (MLH). Project presentation video on [Youtube](https://www.youtube.com/watch?v=Ygu4Dje8eRs), held at Polytechnic University of Catalonia (UPC).
-    <br>
+  <br>
 
 _University Level_
   - [CERTIFICATE OF MERIT’s](https://drive.google.com/file/d/1VaGHBN28AgjgxnPaWaP0udkDOjUlt49x/view?usp=sharing) (Rank cards) for being in the top 3 students for 2 semesters (Semester IV, and VII)
