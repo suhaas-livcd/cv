@@ -105,8 +105,7 @@ _Office & Internship level_
 
   - [Best Trainer Award 2020](https://drive.google.com/file/d/1c270JYSGLNS9h-QaoIvwdEJXqNcmRQdQ/view?usp=sharing), [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do)
     Trained GET’s and shared knowledge by writing technical articles on automotive systems, programming, and automation scripts
-  - [Signaturit Company Challenge Award 2017](http://dvp.st/2lPvGHv), _Barcelona, Spain_
-    Achieved company’s challenge  for the best use of their API in project - “Refugee Rescue” selected in the top 5 projects in HackUPC Winter 2017,  collaboration with Major League Hacking (MLH). Project presentation video on [Youtube](https://www.youtube.com/watch?v=Ygu4Dje8eRs), held at Polytechnic University of Catalonia (UPC).
+  - [Signaturit Company Challenge Award 2017](http://dvp.st/2lPvGHv), _Barcelona, Spain_ <br> Achieved company’s challenge  for the best use of their API in project - “Refugee Rescue” selected in the top 5 projects in HackUPC Winter 2017,  collaboration with Major League Hacking (MLH). Project presentation video on [Youtube](https://www.youtube.com/watch?v=Ygu4Dje8eRs), held at Polytechnic University of Catalonia (UPC).
     <br>
 
 _University Level_
