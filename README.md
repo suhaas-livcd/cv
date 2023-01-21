@@ -115,9 +115,10 @@ _University Level_
 
 ## 👨‍🎓 Education
 
-| Degree | School | Marks (%) / Grade |
+| Degree | School | Marks / Gradutation|
 | :---   | :--- | :--- |
-| Bachelor of Technology in Computer Science | [Karunya University](https://www.karunya.edu), Coimbatore, Tamilnadu | _8.95 CGPA_
+| Masters in Computer Science | [University of Southern California](https://www.usc.edu/), Los Angeles, California | _4.00 GPA_, Dec 2023
+| Bachelor of Technology in Computer Science | [Karunya University](https://www.karunya.edu), Coimbatore, Tamilnadu | _8.95 CGPA_, July 2017
 | Intermediate (11-12th Grade) | [FIITJEE](http://www.fiitjeehyd.com/Kukatpally/CenterHome.aspx), Hyderabad, Telangana |  _89.5% (A)_ |
 | SSC (10th Grade) | [Reliance School](https://www.rfs.edu.in/rsem-vadodara/), Vadodara, Gujarat | _85.4% Percentile: 96.20_ |
 
