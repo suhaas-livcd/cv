@@ -16,7 +16,7 @@
 
 ## 🏢 Work Experience
 
-**Senior Research Engineer** - at [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do), Hyderabad, India  _(July 2017 - Now)_ <br>
+**Senior Research Engineer** - at [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do), Hyderabad, India  _(July 2017 - Dec 2021)_ <br>
   - *Technologies used* : Java, Android, Kotlin, C/C++
   - Developed and supported Android applications based on Media, EV, Telematics and -   Connectivity for In-Vehicle Infotainment (IVI Systems)
   - Developed specs for Controller Area Network (CAN bus) applications such as [NMODE](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/nmode.html) - (equipped  in racing cars for high performance), [Electric Vehicle (EV)](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/evelectricvehicle3.html) along with - its variants [Plug-In](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/pluginhybridelectricvehicle.html),   and [Hybrid EV](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/hybrid.html).
