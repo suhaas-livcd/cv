@@ -7,32 +7,50 @@
 
 | Technologies | Toolchains, Langs & Softwares |
 | :---   | :--- |
-| *Languages* | Java, Android, Kotlin, C/C++, Python, Shell|
-| *Databases* | MySQL, Oracle, Microsoft SQL Server, FireBase |
-| *Framework* | Android Automotive, Native Android (NDK), Spring, Hibernate |
-| *Build systems, automation, CI* | Make, [Soong](https://android.googlesource.com/platform/build/soong/+/refs/heads/master/README.md), Gradle, Maven, Jenkins, Travis CI |
-| *VCS, software tools* | Git, BitBucket, JIRA, Confluence |
-| *Software Methodology* | Agile, V Model |
+| *Languages* | Java, Kotlin, Python, Groovy, C/C++, Shell scripting |
+| *Databases* | Room, FireBase, MySQL, Oracle, Microsoft SQL Server, PostgreSQL, PostGIS, MongoDB |
+| *Framework* | AOSP, Android 12, Spring, Hibernate, Qt QML, RxJava, JavaFX, Kafka |
+| *Build systems, automation, CI, OS* | Make, Soong, Gradle, Maven, Jenkins, Travis CI, Unix/Linux |
+| *VCS, software tools, SDLC* | Git, JIRA, Confluence, Agile, Scrum, Android profiler, Leak Canary |
 
-## 🏢 Work Experience
+## 🏢 Work Experience  
+**Android Applications Software Engineer** at [Lucid Motors](https://lucidmotors.com/), Newark, California  _(May 2023 - Present)_ <br>
+  - **Stack** : AOSP, Android 12, Kotlin, Java, Compose, REST, gRPC microservice, Room, Dagger, JUnit, Espresso, Jetpack
+  - Developed In-Vehicle Infotainment (IVI Systems) applications related to Dialer, Home Screen, and Media application.
+  - Integrated 3rd party apps like Spotify, Tidal, TuneIn, SiriusXM, IHeartRadio and developed media features related to audio focus change, media source switching, songs browsing, metadata caching and live podcasts updates.
+  - Supported dialer features related to bluetooth calling, messaging, contact browsing, call notifications and management.
+  - Spearheaded Home Application for the upcoming [SUV Gravity](https://www.lucidmotors.com/future-models), ensuring seamless integration of customisable widgets with other applications preserving the core MVVM with multithreading and IPC mechanism.
+  - Handled different infotainment power states - Display Off, Sleep, Hibernate, Shut down and OTA Update State.
+  - Implemented RxJava, LifeCycle-aware components, reactive programming paradigms,  real-time data handling.
+  - Developed Home screen application using JetPack Compose and incorporated advanced animations.
+  - Implemented meaningful JUnit and Espresso tests, debugged memory leaks and used various profiling tools.
+<br>
 
-**Senior Research Engineer** - at [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do), Hyderabad, India  _(July 2017 - Dec 2021)_ <br>
-  - *Technologies used* : Java, Android, Kotlin, C/C++
-  - Developed and supported Android applications based on Media, EV, Telematics and -   Connectivity for In-Vehicle Infotainment (IVI Systems)
-  - Developed specs for Controller Area Network (CAN bus) applications such as [NMODE](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/nmode.html) - (equipped  in racing cars for high performance), [Electric Vehicle (EV)](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/evelectricvehicle3.html) along with - its variants [Plug-In](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/pluginhybridelectricvehicle.html),   and [Hybrid EV](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/hybrid.html).
-  - Some specifications such as schedule charging, smart climate settings, next - departure,  nearby charging stations, EV charge transfer, Laps, Timer, plotting - custom graphs for GForce,  different gauges, etc.
-  - Handled system issues related to widgets, IPC communication between multiple - applications,  memory and GPU buffer management, profiling and optimization.
-  - Deployed ECO3.0 variant of EV in Kia and Hyundai cars, while working in HQ’s - Seoul, South   Korea.
+**Senior Research Engineer** at [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do), Hyderabad, India  _(July 2017 - Dec 2021)_ <br>
+  - **Stack** :  Java, Android, Kotlin, C++, Python (Computer Vision framework, NLP framework), CANalyzer, CANoe/BUS
+  -  Developed applications related to [Media](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/playingusbmusic.html) (USBMusic, USBVideo, VoiceMemo), [EV](http://webmanual.hyundai.com/STD_GEN5W/AVNT/EU/English/evelectricvehicle3.html) variants such as [Plug-In](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/pluginhybridelectricvehicle.html) and [Hybrid EV](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/hybrid.html), [Telematics](http://webmanual.hyundai.com/STD_GEN5W/AVNT/EU/English/beforeusingbluelink.html) settings and [NMode](http://webmanual.hyundai.com/STD_GEN5W/AVNT/EU/English/nmode.html) application equipped in racing cars for high performance analysis.
+  - Handled system issues related to CPU load, memory management. Reduced graph plotting canvas bitmap load by 12% and inturn added smooth horizontal scrolling and scaling features for maps and graphs.
+  - Developed EV features like smart climate, schedule charging, next departure, customized nearby fuel stations, EV charge transfer V2G and V2L, lap timers, plotting custom graphs, switching energy flow modes.
+  - Received [Best Prototype Award](https://drive.google.com/file/d/1c0S2f4pnADiZnT_Srx8VW9DwmxM5mvxF/view?usp=sharing) for developing POC “Smart Voice Control for In-vehicle - Infotainment Systems”, reducing driver distraction by around 35%. Developed using android accessibility and speech recognition services.
+  - Automated Android XML designing work by creating UI Automator tool, which converts raw image to android XML code. Used OpenCV - inspired from [Microsoft Sketch2Code](https://www.microsoft.com/en-us/ai/ai-lab-sketch2code). Helped in workload reduction  by 30%.
+  - Developed Telematics JSON analytics data flow from drivers car data to cloud server `using custom REST services.
+  - Received [Best Trainer Award 2020](https://drive.google.com/file/d/1c270JYSGLNS9h-QaoIvwdEJXqNcmRQdQ/view?usp=sharing) and [Stellar Award 2019](https://drive.google.com/file/d/1c8yKfFjUWrrM3feAsFMlvqyyc3Fq9oLX/view?usp=sharing) in recognition of my outstanding performance.
   - Supported [Media applications](http://webmanual.hyundai.com/STD_GEN5_WIDE/AVNT2/EU/English/playingusbmusic.html) by developing features in USB Music, USB Video, - Streaming  using casting and Voice Memo.
   - Gained strong understanding of native android application, IVI architecture, - communication  between Application Framework managers,  Services layers and - Hardware abstraction layers.
 <br>
 
+**Cofounder and Full stack developer** at Hosteloha Inc., Hyderabad, India				    _(July 2020 - Nov 2020 )_ <br>
+  - **Stack** : Android,, Kotlin, Spring Boot, Firebase, Heroku, Maven, Gradle, Crashlytics, Cloud Messaging
+  - Cofounded Hosto App which is an [open-source](https://github.com/Hosteloha/HostelohaFE) hosting platform where students can bid, trade and sell products in their university. Prototyped for 250 students in  [JNTU](https://jntuh.ac.in/) university, with over 10K requests in 24 hours.
+  - Gained solid understanding of the mobile development life cycle, Reactive bidding module, Firebase Authentication services, Batch data processing and caching, Payments, Google Places APIeal time notifications.
+<br>
+
 **Intern** - Java Back End Developer at  [NicePeopleAtWork (NPAW)](https://npaw.com), Barcelona, Spain _(Dec’16 - June’17)_ <br>
-  - *Technologies used* : Java, Spring MVC, Hibernate, Boot, Microservices, Apache Kafka, MySQL
-  - Developed and understood working of various APIs for an end-to-end complete suite of integrated   - video analytics and business intelligence that provided insights based both on sessions and   - video playback monitoring all in one platform.
-  - Implemented Device Detector Library to categories the customers viewing device (desktop, tablet,  - mobile, tv, cars, console, etc.), browser, os, brand and model by parsing user-agents through  - cached regular expressions.
-  - Supported on developing scoring system for microservices related to Content Delivery Network  - (CDN) balancer which identifies the best performing CDN to switch in real-time for better  - quality of service.
-  - Understood architecture of API’s which are scalable and processing high volumes of data in a  - parallely connected systems using Apache Kafka, approximately around 2+ trillion events daily.
+  - **Stack** : Java, Spring MVC, Spring Boot, Hibernate, REST, Microservices, MySQL, JSON, Kafka, Ehcache
+  - Developed by collaborating with the UI team to understand video metrics, refining data response for better visualization and faster rendering by using local and distributed cache services.
+  - Implemented device detection service to detect and serve content based on the customer viewing device, browser, os, brand, device dimensions - and hardware. Detected over 190 device properties on 65k devices.
+  - Gained understanding of API’s architecture which are scalable and can process 2+ trillion events daily coming from 150 video services which process over 55+billion plays per year worldwide.
+  - Won the [MLH HackUPC - Signaturit Company Challenge Award 2017](http://dvp.st/2lPvGHv) for developing the [Refugee Rescue](https://devpost.com/software/refugees_rescue?utm_campaign=winner_email&utm_content=submission_won&utm_medium=tweet&utm_source=twitter) project.
 
 ## 📌  My Projects
 
